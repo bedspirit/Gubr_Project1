@@ -1,0 +1,15 @@
+#pragma once
+#include "pch.h"
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <string>
+#include <vector>
+#include <stdio.h>
+#include <time.h>
+#include <ctime>
+#include <stdlib.h>
+#include <tchar.h>
+#include <cstring>
+#include <string>
+#include <windows.h>
